@@ -35,7 +35,7 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 
 ---
 
-## KPIs del Dashboard
+## KPIs Analizados
 
 ### KPIs operativos
 - Tiempo promedio de preparación
@@ -72,7 +72,6 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 
 ## Próximos pasos
 - Implementar un modelo predictivo de tiempo de entrega.
-- Construir un dashboard interactivo.
 - Incorporar más variables externas (clima real, eventos).
 
 ---
