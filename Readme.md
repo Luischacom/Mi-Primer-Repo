@@ -1,12 +1,12 @@
 # Análisis de los factores que influyen en el tiempo de entrega de pedidos de delivery
 
 ## Descripción
-Este proyecto analiza los tiempos de entrega de pedidos con el objetivo de identificar los factores que generan retrasos y proponer mejoras operativas basadas en datos.
+Este proyecto analiza los tiempos de entrega de pedidos en un servicio de delivery con el objetivo de identificar los factores que generan retrasos y proponer mejoras operativas basadas en datos. El análisis combina técnicas de limpieza, transformación, EDA y definición de KPIs para comprender el comportamiento del servicio en diferentes contextos.
 
 ---
 
 ## Objetivo
-Analizar los tiempos de entrega y detectar cómo influyen variables como el tráfico, el clima, el tipo de vehículo y la ciudad en la eficiencia del servicio.
+Determinar cómo influyen variables como el tráfico, el clima, el tipo de vehículo y la ciudad en la eficiencia del servicio, y detectar oportunidades de optimización en la operación.
 
 ---
 
@@ -26,12 +26,18 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 ---
 
 ## Proceso de análisis
-1. Limpieza de datos (valores nulos, formatos incorrectos, outliers).
-2. Ingeniería de variables (fechas, tiempos y categorías).
-3. Análisis exploratorio de datos (EDA).
-4. Definición y análisis de KPIs.
-5. Visualización de resultados.
-6. Conclusiones y recomendaciones.
+1.	Limpieza de datos
+•	Tratamiento de nulos, corrección de formatos y detección de outliers.
+2.	Ingeniería de variables
+•	Extracción de fechas, tiempos, categorías y condiciones externas.
+3.	EDA (Exploratory Data Analysis)
+•	Identificación de patrones por ciudad, clima, tráfico y vehículo.
+4.	Definición y análisis de KPIs
+•	Métricas operativas y contextuales para evaluar el desempeño.
+5.	Visualización de resultados
+•	Gráficos descriptivos y comparativos para comunicar insights.
+6.	Conclusiones y recomendaciones
+•	Hallazgos clave y oportunidades de mejora.
 
 ---
 
